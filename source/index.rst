@@ -26,6 +26,7 @@ Contents:
    cygwin
    rst
    sphinx
+   git
    memo
 
 .. toctree::
