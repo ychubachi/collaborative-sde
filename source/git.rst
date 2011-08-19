@@ -3,7 +3,12 @@ git - command line tool
 
 http://www8.atwiki.jp/git_jp/pub/git-manual-jp/Documentation/gittutorial.html
 
-Create GPH project
+
+Git overview
+------------
+
+.. image:: image/git-overview.png
+   :width: 480
 
 ::
 

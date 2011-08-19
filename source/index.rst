@@ -3,10 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Todo
-====
-.. todolist::
-
 Welcome to Collaborative Environment's documentation!
 =====================================================
 
@@ -16,6 +12,7 @@ Contents:
    :maxdepth: 2
    :numbered:
 
+   overview
    eclipse
    egit
    google
@@ -28,6 +25,7 @@ Contents:
    sphinx
    git
    memo
+   todo
 
 .. toctree::
    :hidden:
