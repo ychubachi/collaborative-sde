@@ -15,6 +15,7 @@ Contents:
    overview
    eclipse
    egit
+   egit-groupwork
    google
    gph
    gpe
