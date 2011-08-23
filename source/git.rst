@@ -18,4 +18,7 @@ Git overview
   # git push https://user@code.google.com/p/rstmemo/ master
   Password:
 
+Refferences
+-----------
 
+- [jp] http://d.hatena.ne.jp/hiratara/20090113/1231810740
