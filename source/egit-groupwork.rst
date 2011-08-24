@@ -1,6 +1,12 @@
 Learning GitHub
 ===============
 
+MEMO
+----
+
+- http://d.hatena.ne.jp/zariganitosh/20080905/1220621182
+- http://sourceforge.jp/magazine/09/03/16/0831212
+
 Uging Egit with your local repository
 -------------------------------------
 

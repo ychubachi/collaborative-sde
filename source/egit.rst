@@ -50,3 +50,10 @@ Then next dialog will appear after finishing this download.
 
 .. image:: image/20110818023816.png
    :width: 480 px
+
+SSH Key
+-------
+
+.. TODO:: Genearte ssh key
+
+- http://wiki.eclipse.org/EGit/User_Guide/Remote

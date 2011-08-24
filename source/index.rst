@@ -14,8 +14,8 @@ Part I. First Step
    introduction
    accounts
 
-Part I. Installing Eclipse and Plug-ins
-=======================================
+Part II. Installing Eclipse and Plug-ins
+========================================
 
 .. toctree::
    :maxdepth: 3
@@ -25,8 +25,8 @@ Part I. Installing Eclipse and Plug-ins
    egit
    gpe
 
-Part II. Social Network for Collaborative Developpers
-=====================================================
+Part III. Social Network for Collaborative Developpers
+======================================================
 
 .. toctree::
    :maxdepth: 3
@@ -35,7 +35,7 @@ Part II. Social Network for Collaborative Developpers
    github
    gph
 
-Part II. Scenario-based PBL
+Part IV. Scenario-based PBL
 ===========================
 
 .. toctree::
@@ -44,8 +44,8 @@ Part II. Scenario-based PBL
 
    egit-groupwork
 
-Part IV. Frameworks for Developers
-==================================
+Part V. Modern Frameworks for Developers
+========================================
 .. toctree::
    :maxdepth: 3
    :numbered:
@@ -61,7 +61,7 @@ Drafts
 
    git
    mylyn
-   todo
+   gerrit
 
 .. toctree::
    :hidden:

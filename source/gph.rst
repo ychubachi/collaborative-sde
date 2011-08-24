@@ -1,5 +1,5 @@
-Google Project Hosting
-======================
+Google Project Hosting (OPTIONAL)
+=================================
 
 Google Project Hosting
 ----------------------
@@ -18,7 +18,7 @@ Click "Create a new Project".
 
 .. image:: image/gph-create-project.png
 
-We use Git for team code sharing
+We use **SVN** for team code sharing
 
 Example
 -------
