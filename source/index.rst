@@ -6,6 +6,7 @@
 Part I. First Step
 ==================
 
+
 .. toctree::
    :maxdepth: 3
    :numbered:
@@ -34,19 +35,32 @@ Part II. Social Network for Collaborative Developpers
    github
    gph
 
-Other
-=====
+Part II. Scenario-based PBL
+===========================
+
 .. toctree::
    :maxdepth: 3
    :numbered:
 
    egit-groupwork
+
+Part IV. Frameworks for Developers
+==================================
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
    gae
    android
-   cygwin
-   rst
+
+Drafts
+======
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
    git
-   memo
+   mylyn
    todo
 
 .. toctree::
@@ -54,6 +68,9 @@ Other
 
    define
 
+Todo
+====
+.. todolist::
 
 .. Indices and tables
    ==================
