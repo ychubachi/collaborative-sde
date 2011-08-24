@@ -3,27 +3,48 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Collaborative Environment's documentation!
-=====================================================
-
-Contents:
+Part I. First Step
+==================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :numbered:
 
-   overview
+   introduction
+   accounts
+
+Part I. Installing Eclipse and Plug-ins
+=======================================
+
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
    eclipse
    egit
-   egit-groupwork
-   google
-   gph
    gpe
+
+Part II. Social Network for Collaborative Developpers
+=====================================================
+
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
+   github
+   gph
+
+Other
+=====
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
+   egit-groupwork
    gae
    android
    cygwin
    rst
-   sphinx
    git
    memo
    todo
@@ -34,9 +55,9 @@ Contents:
    define
 
 
-Indices and tables
-==================
+.. Indices and tables
+   ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`

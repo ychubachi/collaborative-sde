@@ -50,10 +50,3 @@ Then next dialog will appear after finishing this download.
 
 .. image:: image/20110818023816.png
    :width: 480 px
-
-
-Uging Egit with your local repository
--------------------------------------
-
-- Click right-button at Hello World project in the Package Explorer view.
-- Chose *Team:Share project...* menu.

@@ -1,7 +1,5 @@
 .. include:: define.rst
 
-.. todo:: *TEST*
-
 Eclipse
 =========================
 
@@ -117,3 +115,7 @@ Exercise
 Refferences
 -----------
 #. http://ist.berkeley.edu/as-ag/tools/howto/install-eclipse-win.html
+
+
+.. todo:: *TEST*
+
