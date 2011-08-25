@@ -89,7 +89,7 @@ Let us create a 'Hello World' project.
 You will see a new 'Hello World' project in *Package Explorer* view.
 
 Adding  a class (.java) file
-----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Choose *File:New:Class* menu. Type "HelloWorld" in *Name* field.
 
