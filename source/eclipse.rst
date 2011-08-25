@@ -3,47 +3,66 @@
 Eclipse
 =========================
 
-Downloading Eclipse IDE
------------------------
-You can download Eclipse IDE from this page
-
-- http://www.eclipse.org/downloads/
-
-Download a newest version of “Eclipse IDE for Java EE Developers".
-Recent version now is “Indigo (3.7)”
-
 Installing Eclipse
 ------------------
 
-Unpack the downloaded file and move **eclipse** folder to your home
-directory.  In this document, we use |eclipse|.
+Downloading Eclipse IDE
+~~~~~~~~~~~~~~~~~~~~~~~
+You can download Eclipse IDE from this page.
 
-Start Eclipse by double clicking the eclipse icon.
+- http://www.eclipse.org/downloads/
+
+- Download a newest version of “Eclipse IDE for Java EE Developers".
+  Recent version is “Indigo (3.7)”now (Aug. 2011).
+- Unpack the downloaded file and move the created folder to your home directory ( In this document, we use |eclipse| ).
+
+Starting Eclipse
+~~~~~~~~~~~~~~~~
+
+Let us start Eclipse and move to its Workbench screen.
+
+- Start Eclipse by double clicking the eclipse icon.
+- Check 'Use this as the default and do not ask again'.
 
 .. image:: image/20110814125041.png
    :width: 480 px
 
-Click OK button.
+
+- Click OK button.
 
 .. image:: image/20110814125147.png
    :width: 480 px
 
-Click Finish button.
+- Click Finish button.
 
 .. image:: image/20110814125325.png
    :width: 480 px
 
-Click Workbench button.
+- Click Workbench button.
 
 .. image:: image/20110814125341.png
    :width: 480 px
 
+Closing Eclipse
+~~~~~~~~~~~~~~~
+- Click 'x' button at the top-right corner of Eclipse window.
+- Check 'Always exit without prompt'.
+
+.. image:: image/20110825111807.png
+   :width: 480
+
+- Click OK button.
+
+Using Eclipse
+-------------
+
 Creating 'Hello World' project
-------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Let us create a 'Hello World' project.
 
-Choose File:New:Other... menu item.
+- Start Eclipse again.
+- Choose File:New:Other... menu item.
 
 .. image:: image/20110818011053.png
    :width: 480 px
@@ -94,7 +113,7 @@ Copy-and-paste following code.
    :width: 480 px
 
 Running the code
-----------------
+~~~~~~~~~~~~~~~~
 
 Run the code by choosing *Run:Run last launched (or Run:Run)* menu.
 
@@ -114,4 +133,5 @@ Exercise
 
 Refferences
 -----------
-#. http://ist.berkeley.edu/as-ag/tools/howto/install-eclipse-win.html
+
+#. `Eclipse IDE Installation Instructions <http://ist.berkeley.edu/as-ag/tools/howto/install-eclipse-win.html>`_
