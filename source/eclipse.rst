@@ -129,6 +129,8 @@ Running the code
 
 The result is shown in the **Console** view.
 
+- Close Eclipse.
+
 Exercise
 --------
 
