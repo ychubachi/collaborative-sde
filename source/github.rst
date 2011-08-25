@@ -165,6 +165,7 @@ Bring back to Eclipse.
 
 - Select the key in the text area.
 - Copy it to your clipboard.
+- Click **Cancel** button.
 
 .. image:: image/20110826020706.png
    :width: 480 px
