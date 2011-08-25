@@ -2,3 +2,4 @@
 .. |cygwin| replace:: *C:\\Users\\<name>\\Cygwin*
 .. |cygwin packages| replace:: *C:\\Users\\<name>\\Cygwin\\Packages*
 .. |eclipse| replace:: *C:\\Users\\<name>\\eclipse-jee-indigo-win32\\eclipse*
+.. |git repository| replace:: *C:\\Users\\<name>\\git*
