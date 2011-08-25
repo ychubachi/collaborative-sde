@@ -63,13 +63,13 @@ Let us create a 'Hello World' project.
 
 - Start Eclipse again.
 - Choose File:New:Other... menu item.
+- Select *Java Project* 
 
-.. image:: image/20110818011053.png
+.. image:: image/20110825113046.png
    :width: 480 px
 
-Select *Java Project* and push *Next* button.
-
-Type 'Hello World' in *Project name* text box.
+- push *Next* button.
+- Type 'Hello World' in *Project name* text box.
 
 .. image:: image/20110818011414.png
    :width: 480 px
