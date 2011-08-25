@@ -74,12 +74,14 @@ Let us create a 'Hello World' project.
 .. image:: image/20110818011414.png
    :width: 480 px
 
-Push *Finish* button.  'Open Associated Perspective?' daialog well be appeared.  Check *Remember my decision*.
+- Push *Finish* button.
+  'Open Associated Perspective?' dialog well be appeared.
+- Check *Remember my decision*.
 
 .. image:: image/20110818011717.png
    :width: 480 px
 
-Click *Yes* button.
+- Click *Yes* button.
 
 .. image:: image/20110818012106.png
    :width: 480 px
@@ -89,38 +91,43 @@ You will see a new 'Hello World' project in *Package Explorer* view.
 Adding  a class (.java) file
 ----------------------------
 
-Coose *File:New:Class* menu. Type "HelloWorld" in *Name* field.
+- Choose *File:New:Class* menu. Type "HelloWorld" in *Name* field.
 
-.. image:: image/20110818013804.png
+.. image:: image/20110825113549.png
    :width: 480 px
 
-Click *Finish*.
+- Click *Finish*.
 
 .. image:: image/20110818014143.png
    :width: 480 px
 
-Copy-and-paste following code.
+- Change your HelloWorld.java to following codes.
 
 ::
 
-	public class HellWorld {
+	public class HelloWorld {
 		public static void main(String[] args) {
 			System.out.println("Hello world");
 		}
 	}
 
-.. image:: image/20110818015150.png
+.. image:: image/20110825114033.png
    :width: 480 px
 
 Running the code
 ~~~~~~~~~~~~~~~~
 
-Run the code by choosing *Run:Run last launched (or Run:Run)* menu.
+- Run the code by choosing **Run:Run Last Launched** menu.
 
-.. image:: image/20110818015515.png
+.. image:: image/20110825114247.png
    :width: 480 px
 
-The result is shown in the *Console* view.
+- Click OK button.
+
+.. image:: image/20110825114921.png
+   :width: 480 px
+
+The result is shown in the **Console** view.
 
 Exercise
 --------
@@ -131,7 +138,7 @@ Exercise
 #. Change the message string in HelloWorld.java as you like.  Run the new code and check its result.
 #. You can create a new project or a new class file by using the right-mouse-button.  Try it out.
 
-Refferences
------------
+References
+----------
 
-#. `Eclipse IDE Installation Instructions <http://ist.berkeley.edu/as-ag/tools/howto/install-eclipse-win.html>`_
+- `Eclipse IDE Installation Instructions <http://ist.berkeley.edu/as-ag/tools/howto/install-eclipse-win.html>`_
