@@ -76,7 +76,7 @@ Commiting Files to Local Repository
 You can commit your files to your local repository.
 
 - Right-click **Hello world** project item.
-- Choose **Team -> Commit** item.
+- Choose **Team -> Commit** menu.
 
 .. image:: image/20110826011350.png
    :width: 480 px
@@ -130,7 +130,7 @@ Keep your web browser opened.
 
 Copy & Pase SSH key
 ~~~~~~~~~~~~~~~~~~~
-Bring back to Eclipse.
+Move back to Eclipse.
 
 - Choose **Window -> Preferences**
 
@@ -170,7 +170,7 @@ Bring back to Eclipse.
 .. image:: image/20110826020706.png
    :width: 480 px
 
-- Bring back to your web browser.
+- Move to your web browser.
 - Paste your key to **Key** text area.
 
 .. image:: image/20110826021046.png
@@ -205,4 +205,77 @@ Create your Remote Repository
 .. image:: image/20110826105014.png
    :width: 480 px
 
+- Copy the URI string to your clipboard.
 
+.. image:: image/20110826110927.png
+   :width: 480 px
+
+
+Pushing your Local Repository to Remone Repository
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Move to Eclipse again.
+
+- Right-click **Hello world** project item.
+- Choose **Team -> Push** menu.
+
+.. image:: image/20110826110529.png
+   :width: 480 px
+
+- Paste the URI from your clipboard to **URI** field.
+
+.. image:: image/20110826111509.png
+   :width: 480 px
+
+- Click **Next**
+
+.. image:: image/20110826111718.png
+   :width: 480 px
+
+- Click **Yes**
+
+.. image:: image/20110826111757.png
+   :width: 480 px
+
+- Click **Yes**
+
+.. image:: image/20110826111839.png
+   :width: 480 px
+
+- Select **refs/head/master** at **Source ref** field.
+- Push **Add all branches spec** button.
+
+.. image:: image/20110826112120.png
+   :width: 480 px
+
+- Click **Finish**.
+
+.. image:: image/20110826112224.png
+   :width: 480 px
+
+- Wait a second.
+
+.. image:: image/20110826112311.png
+   :width: 480 px
+
+- Push **OK**.
+
+.. image:: image/20110826112414.png
+   :width: 480 px
+
+- Move to GitHub web page.
+- Click **Source** link.
+
+.. image:: image/20110826112920.png
+   :width: 480 px
+
+- Click **Hello World** link in the table.
+
+.. image:: image/20110826113036.png
+   :width: 480 px
+
+- Click **src/** link in the table.
+
+.. image:: image/20110826113207.png
+   :width: 480 px
+
+Your working tree is now pushed to the remote repository.
