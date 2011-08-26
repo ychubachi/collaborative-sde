@@ -9,42 +9,40 @@ MEMO
 
 
 - **Nobita** starts a new project
-
 - **Shizuka** helps **Nobita** 's project
+- **Dekisugi** imprements a new function
+- fork (romote clone)
+- add
+- commit
+
 
 Scenario Based Groupwork
 ------------------------
 
 Introduction
 ~~~~~~~~~~~~
-
-In this section, a group with tree members acts following scenarios to learn how to collaborate by using GitHub.
-
-Situation
-~~~~~~~~~
-
-**Doraemon** is a cat type robot who is a friend of **Nobita**.
-
-After Draemon departed to the future world,  Nobita wants to develop a Doraemon like software system by himself.
-
-**Sizuka** and **Dekisugi** are joining Nobita's project to help him.
-
-They use Eclipse with EGit plug-in which they have already installed.
+In this section, a group with tree members acts
+following scenarios to learn how to use GitHub.
 
 Scenario
 --------
 
-Act by **Nobita**
-~~~~~~~~~~~~~~~~~
+Scene 1.Starting a new project
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Create a new project named *Doraemon*.  Start Eclipse and select a menu for creating the project.
+**Nobita** acts following scenarios.
 
-<screen image here>
+#. Create a new project named *Doraemon*.
+#. Create a new class named *Main*.
+#. Copy & paste following codes to Main.java.
 
-Type following codes to your Main.java file.
+   ::
 
-::
+      pubilc static ...
 
-  pubilc static ...
+#. Commit your working tree
+#. Share the project with git
+#. Push the project to GitHub
 
-Create a new user account of Nobita.
+
+**Sizuka**
