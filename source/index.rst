@@ -6,50 +6,34 @@
 Part I. First Step
 ==================
 
-
 .. toctree::
    :maxdepth: 3
    :numbered:
 
    introduction
-   accounts
-
-Part II. Installing Eclipse and Plug-ins
-========================================
-
-.. toctree::
-   :maxdepth: 3
-   :numbered:
-
    eclipse
+
+Part II. Git Hub - Social Network for Collaborative Developpers
+===============================================================
+
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
    egit
-   gpe
-
-Part III. Social Network for Collaborative Developpers
-======================================================
-
-.. toctree::
-   :maxdepth: 3
-   :numbered:
-
+   git
    github
+   github-pbl
+
+Part III. Google Technology for Developpers
+===========================================
+
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
+   gpe
    gph
-
-Part IV. Scenario-based PBL
-===========================
-
-.. toctree::
-   :maxdepth: 3
-   :numbered:
-
-   egit-groupwork
-
-Part V. Modern Frameworks for Developers
-========================================
-.. toctree::
-   :maxdepth: 3
-   :numbered:
-
    gae
    android
 
@@ -59,7 +43,6 @@ Drafts
    :maxdepth: 3
    :numbered:
 
-   git
    mylyn
    gerrit
 

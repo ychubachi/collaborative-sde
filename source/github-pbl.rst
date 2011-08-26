@@ -1,5 +1,5 @@
-Learning GitHub
-===============
+PBL : GitHub Collaboration Scenarios
+====================================
 
 MEMO
 ----
@@ -7,11 +7,10 @@ MEMO
 - http://d.hatena.ne.jp/zariganitosh/20080905/1220621182
 - http://sourceforge.jp/magazine/09/03/16/0831212
 
-Uging Egit with your local repository
--------------------------------------
 
-- Click right-button at Hello World project in the Package Explorer view.
-- Chose *Team:Share project...* menu.
+- **Nobita** starts a new project
+
+- **Shizuka** helps **Nobita** 's project
 
 Scenario Based Groupwork
 ------------------------

@@ -68,9 +68,6 @@ Then next dialog will appear after finishing this download.
 SSH Key
 -------
 
-.. TODO:: Genearte ssh key
-
-
 - Select **Window:Preferences** menu.
 
 .. image:: image/20110825121346.png
