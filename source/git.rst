@@ -86,6 +86,28 @@ You will find that '[Hello World NO-HEAD]' message has changed to '[Hello World 
 
 The combination of 'Add' and 'Commit' operations is used frequently.
 
+
+Adding a new brache
+-------------------
+
+.. TODO: Show in History
+.. TODO: Adding a new branch
+
+- create a new branch
+- check out new branch
+- edit
+- check out master
+
+Merging two branches
+--------------------
+
+.. TODO: Marging
+
+- marge
+- edit conflicts
+- add
+- commit
+
 Exercise
 --------
 

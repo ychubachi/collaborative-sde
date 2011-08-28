@@ -13,8 +13,11 @@ GitHub account
 
 #. Create your new account at `Sign up for GitHub <https://github.com/signup/free>`_ page.
 
+SSH Key
+-------
+
 Prepare Resistering SSH key
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - With your web browser, Go to GitHub web page.
 - Log-in with your account.
 
@@ -44,7 +47,8 @@ Prepare Resistering SSH key
 Keep your web browser opened.
 
 Copy & Pase SSH key
--------------------
+~~~~~~~~~~~~~~~~~~~
+
 Move back to Eclipse.
 
 - Choose **Window -> Preferences**
@@ -125,9 +129,25 @@ Create your Remote Repository
 .. image:: image/20110826110927.png
    :width: 480 px
 
+Adding Remote Repository to Remotes
+-----------------------------------
+
+.. TODO:: Adding a new remote
+
+- Open **Git Repositoris**
+- Open **Hello World/Remotes**
+- Select **Create Remote...** menu
+- Enter 'origin' to **Remote name:**
+- Click **OK**
+- Click **Change...**
+- Enter remote URL to **URI**
+- Click **Save**
 
 Pushing your Local Repository to Remone Repository
 --------------------------------------------------
+
+.. TODO:: This section will be revised
+
 Move to Eclipse again.
 
 - Right-click **Hello world** project item.

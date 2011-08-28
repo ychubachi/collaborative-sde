@@ -6,7 +6,6 @@ EGit plugin for Eclipse
 
 See http://eclipse.org/egit/.
 
-
 Installing EGit plugin
 ----------------------
 

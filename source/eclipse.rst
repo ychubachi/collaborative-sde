@@ -8,6 +8,9 @@ Installing Eclipse
 
 Downloading Eclipse IDE
 ~~~~~~~~~~~~~~~~~~~~~~~
+
+.. TODO:: JRE!!!!
+
 You can download Eclipse IDE from this page.
 
 - http://www.eclipse.org/downloads/
