@@ -18,8 +18,6 @@ SSH Key
 
 Prepare Resistering SSH key
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. todo:: Choose 'Open SSH' at the dialog.
-
 - With your web browser, Go to GitHub web page.
 - Log-in with your account.
 
