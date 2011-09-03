@@ -9,13 +9,14 @@ See http://eclipse.org/egit/.
 Installing EGit plugin
 ----------------------
 
-- Chose **Help:Install new software...** menu.
-- Chose '--All Available Sites--' in **Work with** field.
+- Start Eclipse
+- Chose **Help:Install new software...** menu
+- Chose '--All Available Sites--' in **Work with** field
 
 .. image:: image/20110825120521.png
    :width: 480 px
 
-- Wait a second.
+- Wait a second
 
 .. image:: image/20110825120643.png
    :width: 480 px

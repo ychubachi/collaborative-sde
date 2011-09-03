@@ -7,7 +7,6 @@ Creating Local Repository
 -------------------------
 
 At first, create your local repository for git.
-Now your working tree (a set of source codes) are in 'workspace' foleder under the |user home| directory.  After you finish following operation, your working tree will be moved to |git repository| by Eclipse.
 
 - Start Eclipse.
 
@@ -16,6 +15,10 @@ Now your working tree (a set of source codes) are in 'workspace' foleder under t
 
 - Right-click on your *Hello World* project in Package Explorer.
 - Choose **Team -> Share Projects**.
+
+.. TODO:: 'Check Home Directory' screen.
+
+- Click **OK**
 
 .. image:: image/20110826003650.png
    :width: 480 px
@@ -46,7 +49,10 @@ Now your working tree (a set of source codes) are in 'workspace' foleder under t
 .. image:: image/20110826004615.png
    :width: 480 px
 
-Check that your project name 'Hello World' is now followed by '[Hello World NO-Head'.  This means your working tree has been moved into the git folder under the |user home| directory.
+Check that your project name 'Hello World' is now followed by '[Hello World NO-Head'.  
+
+After abobe operation, your working tree has been moved under the |git repository| folder inr the |user home| directory by Eclipse.
+
 
 Adding Files to Local Repository
 --------------------------------
@@ -69,6 +75,10 @@ You can commit your files to your local repository.
 - Right-click **Hello world** project item.
 - Choose **Team -> Commit** menu.
 
+.. todo:: 'Please identify yourself' screen
+
+- Input your name and e-mail
+
 .. image:: image/20110826011350.png
    :width: 480 px
 
@@ -87,11 +97,12 @@ You will find that '[Hello World NO-HEAD]' message has changed to '[Hello World 
 The combination of 'Add' and 'Commit' operations is used frequently.
 
 
-Adding a new brache
--------------------
+.. TODO:: Show in History
 
-.. TODO: Show in History
-.. TODO: Adding a new branch
+Adding a new brach
+------------------
+
+.. TODO:: Adding a new branch
 
 - create a new branch
 - check out new branch
@@ -101,7 +112,7 @@ Adding a new brache
 Merging two branches
 --------------------
 
-.. TODO: Marging
+.. TODO:: Marging
 
 - marge
 - edit conflicts
