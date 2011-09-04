@@ -1,6 +1,28 @@
 PBL : GitHub Collaboration Scenarios
 ====================================
 
+..
+   テキトーにTheWorld.Javaを編集。なんか追加してください
+
+   →保存
+   →ExplorerでTheWorldを右クリック
+   　→Team－Addを選択
+
+   →もっかい右クリック
+   　→Team－Commitを選択
+   　　→Commitはなんかコメントいれてください
+
+   →また右クリック
+   　→Team－Push to Upstreamを選択
+   　　→いろいろ出るからOKを押す
+
+   ここからはGitHub
+   →Your RepositoriesのTheWorldを選択
+
+   →最新のUPDATEが表示されてるハズなので、PullRequestを押下
+
+   　これで全員に更新が通知されるハズ…
+
 Scenario Based Groupwork
 ------------------------
 
@@ -21,8 +43,8 @@ In this scenario, we assume that following members are in the group.
 Scenario
 --------
 
-Starting a new project
-~~~~~~~~~~~~~~~~~~~~~~
+Nobita starts a new project
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nobita** acts following scenarios.
 
@@ -30,14 +52,13 @@ Starting a new project
 #. Create a new project named *Doraemon*
 #. Create a new class named *Main*
 #. Copy & paste following codes to *Main.java*
+
 #. Commit your working tree
 #. Share the project with git
 #. Push the project to GitHub
 
-
-*Main.java*::
-
-   pubilc static ...
+::
+      pubilc static ...
 
 Fork and Clone the Project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,8 +70,8 @@ Fork and Clone the Project
 #. Start Eclipse
 #. Clone **Shizuka/Doraemon**
 
-Pull Request
-~~~~~~~~~~~~
+Sizuka edits the code
+~~~~~~~~~~~~~~~~~~~~~
 **Shizuka** act following scenarios.
 
 #. Edit *Main.java*
@@ -58,17 +79,16 @@ Pull Request
 #. Push the project to **Shizuka/Doraemon**
 #. Send a pull request to **Nobita**
 
-Ading a File
-~~~~~~~~~~~~
+Dekisugi adds a File
+~~~~~~~~~~~~~~~~~~~~
 **Dekisugi**
 
 #. Add *README.txt* file
-#. Push them to **Dekisugi/Doraemon**
+#. Push the project to **Dekisugi/Doraemon**
 #. Send a pull request to **Nobita**
 
-
-Pull and check
-~~~~~~~~~~~~~~
+Nobita pulls and checks their requests
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Nobita**
 
 #. Pull the commit by **Shizuka** and **Dekisugi**
